@@ -1,0 +1,50 @@
+.search {
+  border-bottom: 1px solid #ddd;
+}
+.title {
+  color:orangered;
+  font-size: 25px;
+  padding: 30px 0 18px 0;
+  font-weight: 1000;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  background-color:yellowgreen;
+}
+.one{
+  display: flex;
+  height: 124px;
+  
+}
+.oneA{
+  flex:1;
+  border: 1px solid #888;
+}
+.two{
+  display: flex;
+  height: 124px;
+}
+.twoA,.twoB{
+  /* flex:1; */
+  border: 1px solid #888;
+}
+.twoA{
+  flex:1;
+}
+.twoB{
+  flex:2;
+}
+.three{
+  display: flex;
+  height: 124px;
+}
+.threeA,.threeB{
+  border: 1px solid #888;
+}
+.threeA{
+  flex:2;
+}
+.threeB{
+  flex:1;
+}

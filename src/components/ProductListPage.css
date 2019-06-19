@@ -1,0 +1,19 @@
+/* #components-layout-demo-side .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+.navitem{
+  color: rgba(255, 255, 255, 0.65);
+}
+.logo{
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+} */
+.main{
+  display: flex;
+}
+.right{
+  flex: 1;
+}
